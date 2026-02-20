@@ -544,12 +544,10 @@ mkdir -p ~/system-brain/data
 
 
 	6.	Validate:
-
 python3 -m py_compile ~/system-brain/*.py
 
 
 	7.	Run:
-
 echo "Quick sanity test." | python3 ~/system-brain/brain.py --model mistral --timeout 120
 
 
