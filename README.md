@@ -557,7 +557,3 @@ echo "Quick sanity test." | python3 ~/system-brain/brain.py --model mistral --ti
 ⸻
 
 Status: v1 frozen
-
-At this point, System Brain v1 is a complete, stable baseline.
-
-If you want, I can also generate a “single paste installer script” that creates the directory and writes all files in one go (still minimal, still deterministic).
